@@ -1,0 +1,14 @@
+{
+  "name": "gsos-backend",
+  "version": "1.0.0",
+  "main": "render-backend.js",
+  "scripts": {
+    "start": "node render-backend.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5"
+  }
+}
